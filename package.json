@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lib-flexible": "^0.3.2"
+    "three": "^0.105.2"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
